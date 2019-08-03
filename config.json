@@ -1,0 +1,8 @@
+{
+	"token"  : "NjA1MDQ0NjA3NjEyNjE2NzA0.XT2xuA.2eidxvm6BhOCwDUBUbGnPaVoKD0",
+	"prefix"  : "!!",
+	"UsingDiscordBot"  : true,
+	"SendKickToChat"  : false,
+	"SendBanToChat"  : false,
+	"BanDuration"  : 0.025
+}
